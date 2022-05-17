@@ -19,7 +19,7 @@ class DataCleaning:
         totalMissing = missingCount.sum()
 
         # Calculate percentage of missing values
-        print("The Telecom dataset contains", round(
+        print("The dataset contains", round(
             ((totalMissing/totalCells) * 100), 2), "%", "missing values.")
 
         return df
