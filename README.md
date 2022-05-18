@@ -1,14 +1,17 @@
-The main objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand awareness
 
 ## Overview
 
-SmartAd is an advertiser agency. It designs intuitive touch-enabled advertising. It provides brands with an automated advertising experience via machine learning and creative excellence. SmartAd has implemented a new advertising campaign and collected BIO brand impact optimizer data from 3-10 July 2020 to determine the impact of the creative Ad they design.
+SmartAd is a mobile first advertiser agency. It designs intuitive touch-enabled advertising. It provides brands with an automated advertising experience via machine learning and creative excellence. Their company is based on the principle of voluntary participation which is proven to increase brand engagement and memorability 10 x more than static alternatives.
+
+SmartAd provides an additional service called Brand Impact Optimiser (BIO), a lightweight questionnaire, served with every campaign to determine the impact of the creative, the ad they design, on various upper funnel metrics, including memorability and brand sentiment.
+
 
 The main objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand awareness. 
 
-This repo demonstrate how to apply classic A/B testing, Sequential A/B testing and Machine learning Approach to A/B testing in order to determine if a recent campaign resulted in a significant lift in brand awareness
 
+## Pipeline Design
 
+![Pipeline Design](./pipeline.jpg)
 
 
 ## Install
