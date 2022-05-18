@@ -35,16 +35,16 @@ The following two different types of A/B testing were used in the analysis.
 ## Project Structure
 The repository has a number of files including python scripts, jupyter notebooks, README.md and csv files.
 
-   ### data:
+   ## data:
       - the folder where the dataset csv file is stored.
       
-   ### notebook:
+   ## notebook:
       - the folder where the jupyter notebook files are stored.
    
-   ### scripts:
+   ## scripts:
       - the folder where python script files are stored.
       
-   ### models:
+   ## models:
       - the folder where python model files will be stored.
 
 ## Install
