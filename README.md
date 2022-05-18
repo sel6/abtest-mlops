@@ -26,6 +26,26 @@ The main objective of this project is to test if the ads that the advertising co
 
 ![Pipeline Design](./pipeline.jpg)
 
+## Approach
+
+The following two different types of A/B testing were used in the analysis.
+* Classic A/B testing
+* Sequential A/B testing
+
+## Project Structure
+The repository has a number of files including python scripts, jupyter notebooks, README.md and csv files.
+
+   ### data:
+      - the folder where the dataset csv file is stored.
+      
+   ### notebook:
+      - the folder where the jupyter notebook files are stored.
+   
+   ### scripts:
+      - the folder where python script files are stored.
+      
+   ### models:
+      - the folder where python model files will be stored.
 
 ## Install
 
