@@ -59,7 +59,7 @@ class ML_Processor:
         x_train, x_test, y_train, y_test = train_test_split(features, target,test_size= per_1,shuffle = True, random_state = rand_state )
         x_train, x_val, y_train, y_val = train_test_split(x_train, y_train,test_size= per_2, shuffle = True, random_state = rand_state)
 
-        print("set_splitter output... \n")
+        print("splitted outputt")
         print("X_train shape: {}".format(x_train.shape))
         print("y_train shape: {}".format(y_train.shape))
         print("x_test shape: {}".format(x_test.shape))
