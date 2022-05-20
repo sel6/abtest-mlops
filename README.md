@@ -19,7 +19,7 @@ SmartAd is a mobile first advertiser agency. It designs intuitive touch-enabled 
 SmartAd provides an additional service called Brand Impact Optimiser (BIO), a lightweight questionnaire, served with every campaign to determine the impact of the creative, the ad they design, on various upper funnel metrics, including memorability and brand sentiment.
 
 
-The main objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand awareness. 
+The objective of this project is to test if the ads that the advertising company runs resulted in a significant lift in brand awareness. 
 
 
 ## Pipeline Design
