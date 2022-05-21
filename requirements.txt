@@ -7,3 +7,5 @@ jupyter
 dvc
 xgboost
 mlflow
+setuptools
+sklearn
