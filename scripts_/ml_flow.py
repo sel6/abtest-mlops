@@ -7,7 +7,7 @@ from sklearn.preprocessing import MinMaxScaler
 from sklearn.preprocessing import FunctionTransformer
 
 # a class for machine learning processor
-class ML_Processor:
+class MlFlow:
     def __init__(self):
         pass
 
