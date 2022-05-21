@@ -24,7 +24,7 @@ The objective of this project is to test if the ads that the advertising company
 
 ## Pipeline Design
 
-![Pipeline Design](./pipeline.jpg)
+![Pipeline Design](./pipeline.png)
 
 ## Approach
 
